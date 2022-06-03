@@ -1,0 +1,13 @@
+version: '3.1'
+services:
+  jekyll-serve:
+    # Образ, скачиваемый с DockerHub
+    image: jekyll/jekyll
+    # Расположение
+    volumes:
+      - '.:/srv/jekyll'
+    # Используемый порт
+    ports:
+      - 4000:4000
+    # Команда, запускаемая при старте работы контейнера
+    command: 'jekyll serve'
