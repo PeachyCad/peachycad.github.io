@@ -1,15 +1,15 @@
 ---
 title: Oh, hello there!
 author: PeachyCad
-date: 2019-08-09 20:55:00 +0800
+date: 2022-06-04 3:25:00 +0800
 categories: [Blogging]
 tags: [about_me]
 pin: true
 ---
 
-## Prerequisites
+## README
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll`, and `Bundler`. In addition, [Git](https://git-scm.com/) is also required to be installed.
+Тут будут публиковаться различные очерки моих личных IT-похождений. Всегда можно заглянуть на мой [GitHub](https://github.com/PeachyCad). Не знаю, куда нас это занесёт, но в любом случае: **See You Space Cowboy...**
 
 ## Installation
 
