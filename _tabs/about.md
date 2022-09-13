@@ -1,9 +1,8 @@
 ---
-title: О сайте
+title: О САЙТЕ
 icon: fas fa-info-circle
 order: 4
 ---
-## О САЙТЕ
 
 Тут будут публиковаться различные очерки моих личных IT-похождений. Всегда можно заглянуть на мой [GitHub](https://github.com/PeachyCad). Не знаю, куда нас это занесёт, но в любом случае: **See You Space Cowboy...**
 
