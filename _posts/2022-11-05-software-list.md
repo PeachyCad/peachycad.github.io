@@ -6,6 +6,6 @@ categories: [Blogging]
 tags: [about_me, software]
 ---
 
-## README
+## Check this out!
 
 Начал составлять список полезного ПО у себя в [GitHub](https://github.com/PeachyCad/plus_rep). Заглянуть туда не помешает.
